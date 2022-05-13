@@ -15,7 +15,10 @@
   </a>
 </div>
  </div>
-                                                                  <br></br>  
+                                                                                                                               
+---
+                                                                                                                               
+<br></br>  
 <p>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
@@ -32,7 +35,10 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moniquerendulic&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=A03A91)](https://git.io/streak-stats)
  </div>
-                                                                 <br></br>
+                                                                                                                   
+---
+                                                                                                                   
+<br></br>
  <p align="center">:hammer_and_wrench: Languages and Tools :</p>  
   <p align="center"> 
   <a href="https://skillicons.dev">
