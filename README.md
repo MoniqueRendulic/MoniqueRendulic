@@ -41,7 +41,7 @@
 ---
                                                                                                                    
 <br></br>
- <h2 align="center">:hammer_and_wrench: Languages and Tools :</h2>  
+ <h2 align="center">:hammer_and_wrench: Languages and Tools</h2>  
   <p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,react,css,html,git" />
