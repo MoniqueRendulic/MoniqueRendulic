@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="150"/>
 
-<div id="badges" align="center>
+<div id="badges" align="center">
                         
    <a href="https://www.linkedin.com/in/moniquerendulic/">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
