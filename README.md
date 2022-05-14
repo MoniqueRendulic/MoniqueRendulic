@@ -23,7 +23,7 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Monique
    
-  <h4>I am a Software Engineer based in Austin,TX. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. I am also a certified IT professional with numerous certifications including an AWS Cloud Solutions Architect certification. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.</h4>
+  <h4>I am a Software Engineer based in Austin,TX. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.  I work hard to create dynamic software solutions for your company.</h4>
                                                                                
 </h2> 
                                                             <br></br>
@@ -33,7 +33,7 @@
                                                                                                                     
  ---
 
- <h2>:fire: My Stats :</h2>
+ <h2>:fire: My Stats</h2>
                                                                                                                     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moniquerendulic&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=A03A91)](https://git.io/streak-stats)
  </div>
