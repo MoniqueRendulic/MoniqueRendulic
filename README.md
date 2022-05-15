@@ -23,7 +23,7 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Monique
    
-  <h4>I am a Software Engineer based in Austin,TX. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.  I work hard to create dynamic software solutions for your company.</h4>
+  <h4>I am a Software Engineer based in Austin,TX. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.  I'll work hard to create dynamic software solutions for your company.</h4>
                                                                                
 </h2> 
                                                             <br></br>
